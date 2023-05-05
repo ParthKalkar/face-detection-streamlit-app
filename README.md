@@ -20,7 +20,7 @@ The HAAR cascade algorithm is a popular method for detecting faces in images, us
 ## Run
 To run the face-detection-streamlit-app, follow these steps:
 
-1. Clone the repository onto your local machine by running the command `git clone <repository_url>` in your terminal/command prompt. 
+1. Clone the repository onto your local machine by running the command `git clone https://github.com/ParthKalkar/face-detection-streamlit-app` in your terminal/command prompt. 
 
 2. Navigate to the directory of the repository using the `cd` command. 
 
@@ -52,6 +52,28 @@ To run the face-detection-streamlit-app, follow these steps:
    
 6. The app will now be running locally on your machine. You can access it by opening your web browser and navigating to `http://localhost:8501`. 
 
-7. To use the app, simply click on the `detect faces` and the app will detect the faces and highlight them in the image. 
+7. To use the app, simply click on the `detect faces` button and the app will detect the faces and highlight them in the image. 
+
+## Output
 
 
+## References
+Here are references for the HAAR cascade algorithm and Streamlit:
+
+HAAR cascade algorithm:
+* Viola, P., & Jones, M. (2001). Rapid object detection using a boosted cascade of simple features. Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001.
+
+* Bradski, G. (1998). Computer Vision Face Tracking for Use in a Perceptual User Interface. Intel Corporation.
+
+* OpenCV documentation: https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html
+
+Streamlit:
+* Streamlit documentation: https://docs.streamlit.io/en/stable/
+* “Streamlit: The Fastest Way to Build Custom ML Tools” (blog post): https://towardsdatascience.com/streamlit-the-fastest-way-to-build-custom-ml-tools-f6f15bd5006a
+* “How to Build an App with Streamlit” (video tutorial): https://www.youtube.com/watch?v=_9WiB2PDO7k&t=138s
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
