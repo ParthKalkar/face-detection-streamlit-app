@@ -17,7 +17,41 @@ The HAAR cascade algorithm is a popular method for detecting faces in images, us
 3. Python
 4. OpenCV
 
-## Output
+## Run
+To run the face-detection-streamlit-app, follow these steps:
 
-[![Output1](https://i.imgur.com/vKb2F1B.png)](Video_outputs/single_face_detection.webm)
+1. Clone the repository onto your local machine by running the command `git clone <repository_url>` in your terminal/command prompt. 
+
+2. Navigate to the directory of the repository using the `cd` command. 
+
+3. Create a virtual environment for the app and activate it using the following commands:
+   
+   On Windows: 
+   ```
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+   
+   On Linux/Mac:
+   ```
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+4. Install the necessary dependencies using the following command:
+   
+   ```
+   pip install -r requirements.txt
+   ```
+
+5. Run the app by executing the following command:
+
+   ```
+   streamlit run app.py
+   ```
+   
+6. The app will now be running locally on your machine. You can access it by opening your web browser and navigating to `http://localhost:8501`. 
+
+7. To use the app, simply click on the `detect faces` and the app will detect the faces and highlight them in the image. 
+
 
