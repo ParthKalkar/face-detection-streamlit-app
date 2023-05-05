@@ -61,6 +61,10 @@ https://user-images.githubusercontent.com/50231750/236465178-f9874c92-5c9f-41f8-
 
 
 
+
+https://user-images.githubusercontent.com/50231750/236465646-e670e824-cde4-423b-9863-1acc2216715e.mp4
+
+
 ## References
 Here are references for the HAAR cascade algorithm and Streamlit:
 
