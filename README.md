@@ -57,6 +57,10 @@ To run the face-detection-streamlit-app, follow these steps:
 ## Output
 
 
+https://user-images.githubusercontent.com/50231750/236465178-f9874c92-5c9f-41f8-a86e-a0b7e38b4384.mp4
+
+
+
 ## References
 Here are references for the HAAR cascade algorithm and Streamlit:
 
